@@ -2,18 +2,22 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 2,
+    "newbie": 3,
     "shas": {
       "1353_A - Most Unstable Array": {
         "category": "newbie",
         "rating": 800
       },
       "2000_A - Primary Task": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2074_A - Draw a Square": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 2,
+    "solved": 3,
     "specialist": 0
   }
 }
