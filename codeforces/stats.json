@@ -2,14 +2,18 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 1,
+    "newbie": 2,
     "shas": {
       "1353_A - Most Unstable Array": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2000_A - Primary Task": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 1,
+    "solved": 2,
     "specialist": 0
   }
 }
