@@ -1,0 +1,25 @@
+a=int(input())
+h=[]
+for _ in range (a):
+    b=str(input())
+    m=len(b)
+    if(m >=3):
+        if b[0]=='1' and b[1]=='0':
+            if b[2]=='0' :
+                h.append("No")
+            elif int(b[2])>=2:
+                h.append("yeS")
+            else:
+                if m >= 4:
+                    h.append('yes')
+                else:
+                    h.append('nO')
+        else:
+            h.append("NO")
+    else:
+        h.append("NO")
+    
+for j in h:
+    print(j)
+ 
+ 
