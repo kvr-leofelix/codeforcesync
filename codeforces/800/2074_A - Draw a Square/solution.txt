@@ -1,0 +1,23 @@
+import math
+a=int(input())
+h=[]
+for _ in range(a):
+    l,r,d,u=map(int,input().split())
+    point1=(-l,0)
+    point2=(r,0)
+    point3=(0,-d)
+    point4=(0,u)
+    dis1=math.dist(point1,point3)
+    dis2=math.dist(point1,point4)
+    dis3=math.dist(point2,point3)
+    dis4=math.dist(point2,point4)
+    d1=math.dist(point1,point2)
+    d2=math.dist(point3,point4)
+    if dis1==dis2==dis3==dis4 and d1==d2:
+        h.append("Yes")
+    else:
+        h.append("No")
+ 
+ 
+for j in h:
+    print(j)
