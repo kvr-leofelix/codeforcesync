@@ -1,0 +1,13 @@
+a=int(input())
+h=[]
+for _ in range(a):
+    m,n=map(int,input().split())
+    if m==1:
+        h.append(0)
+    elif m==2:
+        h.append(n)
+    else:
+        h.append(2*n)
+ 
+for j in h:
+    print(j)
