@@ -1,0 +1,9 @@
+def fun(y):
+    while True:
+        y+=1
+        d=str(y)
+        if len(set(d))==len(d):
+            return y
+ 
+y=int(input())
+print(fun(y))
