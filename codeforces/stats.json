@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 10,
+    "newbie": 11,
     "shas": {
       "110_A - Nearly Lucky Number": {
         "category": "newbie",
@@ -32,6 +32,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "677_A - Vanya and Fence": {
+        "category": "newbie",
+        "rating": 800
+      },
       "734_A - Anton and Danik": {
         "category": "newbie",
         "rating": 800
@@ -40,12 +44,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "677_A - Vanya and Fence": {
+      "271_A - Beautiful Year": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 10,
+    "solved": 11,
     "specialist": 0
   }
 }
