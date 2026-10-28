@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 11,
+    "newbie": 12,
     "shas": {
       "110_A - Nearly Lucky Number": {
         "category": "newbie",
@@ -21,6 +21,10 @@
         "rating": 800
       },
       "2185_A - Perfect Root": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "271_A - Beautiful Year": {
         "category": "newbie",
         "rating": 800
       },
@@ -44,12 +48,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "271_A - Beautiful Year": {
+      "1030_A - In Search of an Easy Problem": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 11,
+    "solved": 12,
     "specialist": 0
   }
 }
