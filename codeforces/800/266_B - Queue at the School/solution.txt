@@ -1,0 +1,12 @@
+a,b=map(int,input().split())
+d=list(input())
+for _ in range(b):
+    j=0
+    while j<a-1:
+            if ("B"==d[j]) and ("G"==d[j+1]):
+               d[j],d[j+1]=d[j+1],d[j]
+               j+=2
+            else:
+               j+=1
+print("".join(d))
+ 
