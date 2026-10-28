@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 6,
+    "newbie": 7,
     "shas": {
       "1353_A - Most Unstable Array": {
         "category": "newbie",
@@ -20,16 +20,20 @@
         "category": "newbie",
         "rating": 800
       },
+      "281_A - Word Capitalization": {
+        "category": "newbie",
+        "rating": 800
+      },
       "977_A - Wrong Subtraction": {
         "category": "newbie",
         "rating": 800
       },
-      "281_A - Word Capitalization": {
+      "110_A - Nearly Lucky Number": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 6,
+    "solved": 7,
     "specialist": 0
   }
 }
