@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 8,
+    "newbie": 9,
     "shas": {
       "110_A - Nearly Lucky Number": {
         "category": "newbie",
@@ -28,16 +28,20 @@
         "category": "newbie",
         "rating": 800
       },
+      "734_A - Anton and Danik": {
+        "category": "newbie",
+        "rating": 800
+      },
       "977_A - Wrong Subtraction": {
         "category": "newbie",
         "rating": 800
       },
-      "734_A - Anton and Danik": {
+      "41_A - Translation": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 8,
+    "solved": 9,
     "specialist": 0
   }
 }
