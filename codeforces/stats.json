@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 12,
+    "newbie": 13,
     "shas": {
+      "1030_A - In Search of an Easy Problem": {
+        "category": "newbie",
+        "rating": 800
+      },
       "110_A - Nearly Lucky Number": {
         "category": "newbie",
         "rating": 800
@@ -48,12 +52,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "1030_A - In Search of an Easy Problem": {
+      "266_B - Queue at the School": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 12,
+    "solved": 13,
     "specialist": 0
   }
 }
