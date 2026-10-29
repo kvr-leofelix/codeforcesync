@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 13,
+    "newbie": 14,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -25,6 +25,10 @@
         "rating": 800
       },
       "2185_A - Perfect Root": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "266_B - Queue at the School": {
         "category": "newbie",
         "rating": 800
       },
@@ -52,12 +56,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "266_B - Queue at the School": {
+      "467_A - George and Accommodation": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 13,
+    "solved": 14,
     "specialist": 0
   }
 }
