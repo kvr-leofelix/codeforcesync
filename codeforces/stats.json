@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 15,
+    "newbie": 16,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -48,6 +48,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "486_A - Calculating Function": {
+        "category": "newbie",
+        "rating": 800
+      },
       "677_A - Vanya and Fence": {
         "category": "newbie",
         "rating": 800
@@ -60,12 +64,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "486_A - Calculating Function": {
+      "344_A - Magnets": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 15,
+    "solved": 16,
     "specialist": 0
   }
 }
