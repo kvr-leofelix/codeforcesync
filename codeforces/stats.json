@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 21,
+    "newbie": 22,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -72,6 +72,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "61_A - Ultra-Fast Mathematician": {
+        "category": "newbie",
+        "rating": 800
+      },
       "677_A - Vanya and Fence": {
         "category": "newbie",
         "rating": 800
@@ -84,12 +88,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "61_A - Ultra-Fast Mathematician": {
+      "705_A - Hulk": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 21,
+    "solved": 22,
     "specialist": 0
   }
 }
