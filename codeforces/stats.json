@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 18,
+    "newbie": 19,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -13,6 +13,10 @@
         "rating": 800
       },
       "1353_A - Most Unstable Array": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "136_A - Presents": {
         "category": "newbie",
         "rating": 800
       },
@@ -72,12 +76,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "136_A - Presents": {
+      "228_A - Is your horseshoe on the other hoof?": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 18,
+    "solved": 19,
     "specialist": 0
   }
 }
