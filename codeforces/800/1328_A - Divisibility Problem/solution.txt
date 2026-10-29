@@ -1,0 +1,15 @@
+a=int(input())
+h=[]
+for _ in range(a):
+    b,c=map(int,input().split())
+    if(b%c==0):
+        h.append(0)
+    else:
+         if b>=c:
+                h.append(c-(b%c))
+         else:
+                h.append(abs(c-b))
+   
+ 
+for j in h:
+    print(j)
