@@ -2,13 +2,17 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 20,
+    "newbie": 21,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
         "rating": 800
       },
       "110_A - Nearly Lucky Number": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "1328_A - Divisibility Problem": {
         "category": "newbie",
         "rating": 800
       },
@@ -80,12 +84,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "1328_A - Divisibility Problem": {
+      "61_A - Ultra-Fast Mathematician": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 20,
+    "solved": 21,
     "specialist": 0
   }
 }
