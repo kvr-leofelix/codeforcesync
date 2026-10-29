@@ -1,0 +1,6 @@
+a=int(input())
+b=list(map(int,input().split()))
+h=[0]*a
+for i in b:
+    h[i-1]=b.index(i)+1
+print(*h)
