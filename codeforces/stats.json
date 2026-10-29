@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 24,
+    "newbie": 25,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -68,6 +68,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "469_A - I Wanna Be the Guy": {
+        "category": "newbie",
+        "rating": 800
+      },
       "486_A - Calculating Function": {
         "category": "newbie",
         "rating": 800
@@ -96,12 +100,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "469_A - I Wanna Be the Guy": {
+      "750_A - New Year and Hurry": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 24,
+    "solved": 25,
     "specialist": 0
   }
 }
