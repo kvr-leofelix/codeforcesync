@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 25,
+    "newbie": 26,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -96,16 +96,20 @@
         "category": "newbie",
         "rating": 800
       },
+      "750_A - New Year and Hurry": {
+        "category": "newbie",
+        "rating": 800
+      },
       "977_A - Wrong Subtraction": {
         "category": "newbie",
         "rating": 800
       },
-      "750_A - New Year and Hurry": {
+      "1999_A - A+B Again?": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 25,
+    "solved": 26,
     "specialist": 0
   }
 }
