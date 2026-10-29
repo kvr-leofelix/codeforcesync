@@ -1,0 +1,12 @@
+a=int(input())
+b=str(input()).lower()
+t=False
+alp=["q","w","e","r","t","y","u","i","o","p","a","s","d","f","g","h","j","k","l","z","x","c","v","b","n","m"]
+for i in alp:
+    if i not in b:
+        t=True
+ 
+if t==True:
+    print("NO")
+else:
+    print("YES")
