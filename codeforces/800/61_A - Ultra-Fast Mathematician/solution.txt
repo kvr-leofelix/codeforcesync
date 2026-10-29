@@ -1,0 +1,4 @@
+a=input()
+b=input()
+t=int(a,2)^int(b,2)
+print(bin(t)[2:].zfill(len(a)))
