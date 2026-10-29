@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 14,
+    "newbie": 15,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -44,6 +44,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "467_A - George and Accommodation": {
+        "category": "newbie",
+        "rating": 800
+      },
       "677_A - Vanya and Fence": {
         "category": "newbie",
         "rating": 800
@@ -56,12 +60,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "467_A - George and Accommodation": {
+      "486_A - Calculating Function": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 14,
+    "solved": 15,
     "specialist": 0
   }
 }
