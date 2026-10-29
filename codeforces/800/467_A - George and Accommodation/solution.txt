@@ -1,0 +1,8 @@
+a=int(input())
+t=0
+for _ in range(a):
+    b,c=map(int,input().split())
+    net=c-b
+    if (net>=2):
+        t+=1
+print(t)
