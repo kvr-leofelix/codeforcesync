@@ -1,0 +1,11 @@
+a=int(input())
+t=[]
+d=1
+for _ in range(a):
+    b=int(input())
+    t.append(b)
+for i in range(len(t)-1):
+    if t[i]!=t[i+1]:
+        d+=1
+print(d)
+ 
