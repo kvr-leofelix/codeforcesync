@@ -1,0 +1,12 @@
+a=int(input())
+b="I love it"
+c="I hate it"
+d="I hate it"
+for i in range(2,a+1):
+    if i%2==0:
+        d=d[:-3]+" that "+b
+    else:
+        d=d[:-3]+" that "+c
+print(d)
+# a="I hate that I love that I hate.it"
+# print(a[:-3])
