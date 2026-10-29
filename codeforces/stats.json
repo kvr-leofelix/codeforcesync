@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 17,
+    "newbie": 18,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -17,6 +17,10 @@
         "rating": 800
       },
       "2000_A - Primary Task": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "200_B - Drinks": {
         "category": "newbie",
         "rating": 800
       },
@@ -68,12 +72,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "200_B - Drinks": {
+      "136_A - Presents": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 17,
+    "solved": 18,
     "specialist": 0
   }
 }
