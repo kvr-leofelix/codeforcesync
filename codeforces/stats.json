@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 22,
+    "newbie": 23,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -80,6 +80,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "705_A - Hulk": {
+        "category": "newbie",
+        "rating": 800
+      },
       "734_A - Anton and Danik": {
         "category": "newbie",
         "rating": 800
@@ -88,12 +92,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "705_A - Hulk": {
+      "520_A - Pangram": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 22,
+    "solved": 23,
     "specialist": 0
   }
 }
