@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 19,
+    "newbie": 20,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -33,6 +33,10 @@
         "rating": 800
       },
       "2185_A - Perfect Root": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "228_A - Is your horseshoe on the other hoof?": {
         "category": "newbie",
         "rating": 800
       },
@@ -76,12 +80,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "228_A - Is your horseshoe on the other hoof?": {
+      "1328_A - Divisibility Problem": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 19,
+    "solved": 20,
     "specialist": 0
   }
 }
