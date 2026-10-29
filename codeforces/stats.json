@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 23,
+    "newbie": 24,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -72,6 +72,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "520_A - Pangram": {
+        "category": "newbie",
+        "rating": 800
+      },
       "61_A - Ultra-Fast Mathematician": {
         "category": "newbie",
         "rating": 800
@@ -92,12 +96,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "520_A - Pangram": {
+      "469_A - I Wanna Be the Guy": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 23,
+    "solved": 24,
     "specialist": 0
   }
 }
