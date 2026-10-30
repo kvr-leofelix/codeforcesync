@@ -1,0 +1,31 @@
+def def_3(b):
+    n = 0
+    while b % 3 == 0:
+        n += 1
+        b //= 3
+    return n, b
+ 
+def def_2(b):
+    n = 0
+    while b % 2 == 0:
+        n += 1
+        b //= 2
+    return n, b
+ 
+h = []
+ 
+a = int(input())
+for _ in range(a):
+    b = int(input())
+    
+    no_3, b = def_3(b)
+    no_2, b = def_2(b)
+ 
+    
+    if b != 1 or no_2 > no_3:
+        h.append(-1)
+    else:
+        h.append(2 * no_3 - no_2)
+ 
+for w in h:
+    print(w)
