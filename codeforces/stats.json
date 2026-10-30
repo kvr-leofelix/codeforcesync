@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 26,
+    "newbie": 27,
     "shas": {
       "1030_A - In Search of an Easy Problem": {
         "category": "newbie",
@@ -21,6 +21,10 @@
         "rating": 800
       },
       "136_A - Presents": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "1999_A - A+B Again?": {
         "category": "newbie",
         "rating": 800
       },
@@ -104,12 +108,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "1999_A - A+B Again?": {
-        "rating": 800,
+      "1374_B - Multiply by 2, divide by 6": {
+        "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 26,
+    "solved": 27,
     "specialist": 0
   }
 }
